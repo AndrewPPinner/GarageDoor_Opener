@@ -6,7 +6,7 @@
 AsyncWebServer server(80);
 
 const char* ssid = "Virus.exe_2.4G";
-const char* password = "Andrew1021!";
+const char* password = "<password123>";
 const int ledPin =  5;
 
 void setup() {
